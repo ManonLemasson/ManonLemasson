@@ -1,6 +1,6 @@
 # Hi there ! I'm Manon Lemasson 👋
 
-I'm living in Ajaccio, France and I'm currently looking for a developer web job 💻✨
+
 
 ## Back-end
 
